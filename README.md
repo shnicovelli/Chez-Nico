@@ -2,4 +2,4 @@
 Exercice Github en classe.
 
 ## Exemple de sous-titre
-Documentation _italic_ **gras**
+_Documentation_ **Wow! Ceci est important.**
